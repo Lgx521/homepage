@@ -9,7 +9,8 @@ import HeroLight from "./images/hero-light.jpg";
 import HeroDark from "./images/hero-dark.jpg";
 
 // Projects Images (add your images to the images directory and import below)
-import Logo from "./images/logo.svg";
+// import Logo from "./images/logo.svg";
+import Logo from "./images/icon.JPG"
 
 /* START HERE
  **************************************************************
